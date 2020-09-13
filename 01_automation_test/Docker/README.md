@@ -12,4 +12,4 @@ once i run
 
     - `docker container ls`
 
-I can check the port exposed for the container and retrieving docker IP.. I can brows docker IP on the port exposed to visualise apache landing page.
+I can check the port exposed for the container and retrieving docker IP.. I can browse docker IP on the port exposed to visualise apache landing page.
